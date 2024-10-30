@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Dan Wolken",
+            "title": "Alabama's flop at Vanderbilt leads college football Misery Index after Week 6",
+            "description": "Alabama was stunned at Vanderbilt and that was enough to put the Crimson Tide at the top of the Misery Index after Week 6 in college football.",
+            "url": "https://www.usatoday.com/story/sports/college/columnist/dan-wolken/2024/10/06/college-football-week-6-misery-index-alabama-kalen-deboer/75540523007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/06/USAT/75541077007-usatsi-24417269.jpg?crop=4009,2255,x227,y490&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2024-10-06T10:06:53+00:00",
+            "content": "It is far too soon to tell whether Kalen DeBoer is going to be a good enough football coach for Alabama, but hes going to do wonders for the states diamond-producing industry. Every Saturday in the f… [+11148 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "RJ Young",
+            "title": "2024 college football rankings: Ohio State jumps to No. 1; Penn State enters top 5",
+            "description": "Ohio State and Penn State made big moves in RJ Young's Top 25. Check out the complete rankings following Week 6 of the college football season.",
+            "url": "https://www.foxsports.com/stories/college-football/2024-college-football-rankings-ohio-state-jumps-no-1-penn-state-enters-top-5",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/10/1408/814/4a34cfc9-cfb-rjyoung-top25-16x9-2.jpg?ve=1&tl=1",
+            "publishedAt": "2024-10-06T08:12:20Z",
+            "content": "Following Vanderbilt's upset win over Virginia Tech in Week 1, I took it upon myself to read \"The Vanderbilt Hustler\" for the first time because, well, student newspapers do an excellent job of cover… [+8090 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Ryan Dabbs, Chris Flanagan",
+            "title": "'At Tottenham, I went to Feyenoord to see Robin van Persie. He came on as a sub, shirt out of his shorts, socks rolled down, looking a mess’: How Spurs missed out on signing 144-goal Premier League great",
+            "description": "Tottenham passed up the opportunity to sign Robin van Persie in 2004 when their director of football was left unimpressed by he Dutchman",
+            "url": "https://www.fourfourtwo.com/news/at-tottenham-i-went-to-feyenoord-to-see-robin-van-persie-he-came-on-as-a-sub-shirt-out-of-his-shorts-socks-rolled-down-looking-a-mess-how-spurs-missed-out-on-signing-144-goal-premier-league-great",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gbcP9Wc3VwYCnKKrqiws9Z-1200-80.jpg",
+            "publishedAt": "2024-10-06T08:00:00Z",
+            "content": "Tottenham Hotspur missed out on signing Robin van Persie while he was just a teenager, with former director of football David Pleat unimpressed by how the Dutchman looked when coming on during a game… [+2491 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Vanderbilt upsets No. 1 Alabama 40-35 in historic college football win",
+            "description": "Vanderbilt stunned Alabama 40-35 Saturday for the Commodores’ first win over the nation’s top-ranked team.",
+            "url": "https://www.nbcnews.com/news/sports/vanderbilt-upsets-no-1-alabama-40-35-historic-college-football-win-rcna174164",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241005-vanderbilt-victory-wm-516p-29202f.jpg",
+            "publishedAt": "2024-10-06T00:23:45Z",
+            "content": "NASHVILLE, Tenn. Sedrick Alexander ran for two touchdowns, Randon Fontenette scored on a Pick-6 and Diego Pavia outplayed Heisman Trophy candidate Jalen Milroe as Vanderbilt stunned Alabama 40-35 Sat… [+1634 chars]"
+        }
+        
+    ]
+}
