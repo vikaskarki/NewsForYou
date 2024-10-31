@@ -2,13 +2,13 @@ import './App.css';
 import React, { useState } from 'react';
 import Navbar from './Components/Navbar';
 import NewsForYou from './Components/NewsForYou';
+import LoadingBar from 'react-top-loading-bar'
 
 import {
   BrowserRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
-import LoadingBar from 'react-top-loading-bar'
 
 const App = () => {
  const pageSize= 8;
@@ -17,7 +17,8 @@ const App = () => {
    
     return (
       <div>
-        <Router>
+        <Router basename="/newsapp">
+        
         <Navbar/>
         <LoadingBar
         height={3}
@@ -25,7 +26,6 @@ const App = () => {
         progress={progress}
       />
         <Routes>
-        <Route exact path="/NewsForYou" element={<NewsForYou />} />
           <Route exact path="/" element={<NewsForYou setProgress= {setProgress} key="General" pageSize={pageSize} country="us" category= "General" />}/> 
           <Route exact path="/business" element={<NewsForYou setProgress= {setProgress} key="Business" pageSize={pageSize} country="us" category= "Business" />}/>
           <Route exact path="/entertainment" element={<NewsForYou setProgress= {setProgress} key="Entertainment" pageSize={pageSize} country="us" category= "Entertainment" />}/>
